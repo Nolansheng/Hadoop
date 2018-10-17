@@ -5,4 +5,4 @@ Daily hadoop study notes
 
 # [10.11 安装eclipse,增加节点](https://github.com/Nolansheng/Hadoop/blob/master/111018.md)
 
-# [10.14 用eclipse开发，程序例子，导出jar，引用包等]()
+# [10.14 用eclipse开发，程序例子，导出jar，引用包等](https://github.com/Nolansheng/Hadoop/blob/master/141018.md)
