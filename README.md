@@ -9,4 +9,4 @@ Daily hadoop study notes
 
 # [10.15 hbase,zookeeper的安装](https://github.com/Nolansheng/Hadoop/blob/master/151018.md)
 
-# [10.24 spark的配置]（https://github.com/Nolansheng/Hadoop/blob/master/241018.md）
+# [10.24 spark的配置](https://github.com/Nolansheng/Hadoop/blob/master/241018.md)
