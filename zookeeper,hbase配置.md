@@ -17,6 +17,5 @@
 将Lib文件夹中的Hadoop-*.jar删除，将hadoop中的导入，可能是因为版本不符合
 
 ### 2.[Hbase shell 命令](https://www.cnblogs.com/cxzdy/p/5583239.html)
-切换到Hbase目录
-./bin/hbase shell 进入shell
-
+- 切换到Hbase目录./bin/hbase shell 进入shell
+- list显示有哪些表（与MySQL不同的是，Hbase不需要先建数据库）
