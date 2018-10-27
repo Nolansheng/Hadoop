@@ -19,3 +19,6 @@
 ### 2.[Hbase shell 命令](https://www.cnblogs.com/cxzdy/p/5583239.html)
 - 切换到Hbase目录./bin/hbase shell 进入shell
 - list显示有哪些表（与MySQL不同的是，Hbase不需要先建数据库）
+
+# 开启hbase之前一定要先开启ZOOKEEPER，zkServer.sh start,然后start-hbase.sh 启动，最后jps查看HMaster任务是否存在，不然hbase shell会运行不了
+
